@@ -6,13 +6,13 @@ Welcome to my GitHub! I'm a detail-oriented business analyst passionate about tr
 
 📊 About Me
 
-I'm a Business Analyst Intern at the intersection of **business strategy** and **data analytics**. Currently pursuing my **BBA(Hons) in Business Analytics** at SLIIT Northern University, I specialize in leveraging data to solve complex business problems.
+I'm a Business Analyst Intern at the intersection of business strategy and data analytics. Currently pursuing my **BBA(Hons) in Business Analytics** at SLIIT Northern University, I specialize in leveraging data to solve complex business problems.
 
 My approach:
-- 🔍 Research-driven** — Conducting rigorous analyses on emerging trends (influencer marketing, AI adoption, sustainable tourism)
-- 📈 Data-focused** — Transforming raw data into meaningful business insights
-- 🤝 Collaborative** — Strong communicator who thrives in team environments
-- 🚀 Proactive learner** — Always exploring new analytical methods and industry practices
+- 🔍 Research-driven — Conducting rigorous analyses on emerging trends (influencer marketing, AI adoption, sustainable tourism)
+- 📈 Data-focused — Transforming raw data into meaningful business insights
+- 🤝 Collaborative — Strong communicator who thrives in team environments
+- 🚀 Proactive learner — Always exploring new analytical methods and industry practices
 
 💼 Technical Skills
 
