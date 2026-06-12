@@ -119,6 +119,6 @@ I'm actively seeking opportunities to:
 - 🌐 Engage with fellow analysts & researchers
 - 📚 Share knowledge & mentor aspiring analysts
 
-💭 Fun Fact:** Beyond the spreadsheets, I'm passionate about understanding how cultural and ethical factors shape business decisions—especially in emerging markets!
+💭 Fun Fact: Beyond the spreadsheets, I'm passionate about understanding how cultural and ethical factors shape business decisions—especially in emerging markets!
 
 Last updated: June 2026
